@@ -24,8 +24,8 @@ ul#menunav {
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-around;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 12px;
+    margin-right: 12px;
 }
 
 il {
@@ -41,12 +41,15 @@ body {
     color: #0f0f0f;
     display: block;
     margin: 12px;
+    margin-top: 150px;
 }
 
 /* aca nos quedamos
 LAS SECTION DEBEN OCUPAR EL TOTAL DE LA PANTALLA
 
 ESPACIADO ENTRE PARRADOS: 20PX TOP Y BOTTOM
+
+ICONOS AGREGAR BORDE DE COLOR
 
 AGREGAR FLEXBLOX :) */
 
@@ -78,6 +81,8 @@ h2 {
 .fotogatito {
     border-radius: 50%;
 }
+
+
 
 
 
